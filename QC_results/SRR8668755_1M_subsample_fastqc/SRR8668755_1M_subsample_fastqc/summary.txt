@@ -1,0 +1,10 @@
+PASS	Basic Statistics	SRR8668755_1M_subsample.fastq.gz
+PASS	Per base sequence quality	SRR8668755_1M_subsample.fastq.gz
+PASS	Per sequence quality scores	SRR8668755_1M_subsample.fastq.gz
+FAIL	Per base sequence content	SRR8668755_1M_subsample.fastq.gz
+FAIL	Per sequence GC content	SRR8668755_1M_subsample.fastq.gz
+PASS	Per base N content	SRR8668755_1M_subsample.fastq.gz
+WARN	Sequence Length Distribution	SRR8668755_1M_subsample.fastq.gz
+WARN	Sequence Duplication Levels	SRR8668755_1M_subsample.fastq.gz
+WARN	Overrepresented sequences	SRR8668755_1M_subsample.fastq.gz
+PASS	Adapter Content	SRR8668755_1M_subsample.fastq.gz
